@@ -1,0 +1,16 @@
+pesos_biasO1[0]= -2.473392;
+pesos_oculta1[0][0]= 54.707954;
+pesos_biasO1[1]= -1.262135;
+pesos_oculta1[1][0]= -16.994663;
+pesos_biasS[0]= -2.620000;
+pesos_saida[0][0]= 5.847640;
+pesos_saida[0][1]= -6.476550;
+
+34 amostras - 10000 epocas
+pesos_biasO1[0]= -2.392972;
+pesos_oculta1[0][0]= 53.625857;
+pesos_biasO1[1]= -0.711901;
+pesos_oculta1[1][0]= -18.139395;
+pesos_biasS[0]= -2.120000;
+pesos_saida[0][0]= 5.494640;
+pesos_saida[0][1]= -5.918550;
